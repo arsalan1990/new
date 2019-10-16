@@ -6,3 +6,6 @@ hello git
 
 hellow123
 my first text in git hub
+
+
+hello in smart git 
